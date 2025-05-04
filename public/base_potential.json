@@ -99,6 +99,9 @@
         },
         {
           "FTR": 8.4
+        },
+        {
+          "BYD": 9.7
         }
       ],
       "Shades of Light in a Transcendent Realm": [
@@ -177,6 +180,9 @@
         },
         {
           "FTR": 9.2
+        },
+        {
+          "BYD": 9.9
         }
       ],
       "Infinity Heaven": [
@@ -424,6 +430,9 @@
         },
         {
           "FTR": 9.9
+        },
+        {
+          "BYD": 10.9
         }
       ],
       "LunarOrbit -believe in the Espebranch road-": [
@@ -922,6 +931,17 @@
         {
           "FTR": 10
         }
+      ],
+      "τ (tau)": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.7
+        }
       ]
     },
     "Extend Archive 2": {
@@ -1357,6 +1377,9 @@
         },
         {
           "FTR": 9.6
+        },
+        {
+          "BYD": 10.3
         }
       ],
       "G e n g a o z o": [
@@ -1745,6 +1768,9 @@
         },
         {
           "FTR": 9.8
+        },
+        {
+          "BYD": 10
         }
       ],
       "Scarlet Cage": [
@@ -2648,6 +2674,17 @@
         },
         {
           "ETR": 9.9
+        }
+      ],
+      "Dull Blade": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 8
+        },
+        {
+          "FTR": 10.5
         }
       ]
     }

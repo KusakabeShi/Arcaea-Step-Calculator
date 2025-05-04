@@ -168,6 +168,10 @@
         {
             "constant": 8.4,
             "old": false
+        },
+        {
+            "constant": 9.7,
+            "old": false
         }
     ],
     "relentless": [
@@ -345,6 +349,10 @@
         },
         {
             "constant": 9.2,
+            "old": false
+        },
+        {
+            "constant": 9.9,
             "old": false
         }
     ],
@@ -1416,6 +1424,10 @@
         {
             "constant": 9.9,
             "old": false
+        },
+        {
+            "constant": 10.9,
+            "old": false
         }
     ],
     "espebranch": [
@@ -2415,6 +2427,10 @@
         },
         {
             "constant": 9.8,
+            "old": false
+        },
+        {
+            "constant": 10,
             "old": false
         }
     ],
@@ -3449,6 +3465,10 @@
         },
         {
             "constant": 9.6,
+            "old": false
+        },
+        {
+            "constant": 10.3,
             "old": false
         }
     ],
@@ -6747,6 +6767,34 @@
         },
         {
             "constant": 10,
+            "old": false
+        }
+    ],
+    "tau": [
+        {
+            "constant": 4.5,
+            "old": false
+        },
+        {
+            "constant": 7.8,
+            "old": false
+        },
+        {
+            "constant": 9.7,
+            "old": false
+        }
+    ],
+    "dullblade": [
+        {
+            "constant": 4.5,
+            "old": false
+        },
+        {
+            "constant": 8,
+            "old": false
+        },
+        {
+            "constant": 10.5,
             "old": false
         }
     ]
