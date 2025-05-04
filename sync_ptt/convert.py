@@ -44,7 +44,7 @@ for songid, diffs in ChartConstant.items():
             continue
         output_result[section_id][pack_name].setdefault(song_name, [])
         output_result[section_id][pack_name][song_name] += [ {diff_names[diffidx]: diff["constant"]} ]
-json.dump(output_result,open("base_potential.json","w"))
+open("base_potential.json","w").write(json.dumps(output_result, indent=2, ensure_ascii=False))
 
 
 

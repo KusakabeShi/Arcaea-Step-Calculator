@@ -39,7 +39,7 @@ jobs:
       - name: Commit and push if changed
         if: steps.git-check.outputs.changed == 'true'
         run: |
-          git add public/base_potential.json
+          git add -A
           git commit -m "chore: sync base_potential.json"
           git push
 
