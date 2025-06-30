@@ -24,3 +24,7 @@ npm run dev
 ```
 npm run build
 ```
+
+# Credit
+
+Special thanks to https://arcwiki.mcd.blue , potential data is download fron this wiki.
