@@ -6939,5 +6939,148 @@
             "constant": 9.9,
             "old": false
         }
+    ],
+    "miles": [
+        {
+            "constant": 3.5,
+            "old": false
+        },
+        {
+            "constant": 6.5,
+            "old": false
+        },
+        {
+            "constant": 8.2,
+            "old": false
+        },
+        null,
+        {
+            "constant": 9.8,
+            "old": false
+        }
+    ],
+    "wereallgonnadie": [
+        {
+            "constant": 5.5,
+            "old": false
+        },
+        {
+            "constant": 8,
+            "old": false
+        },
+        {
+            "constant": 10.1,
+            "old": false
+        },
+        null,
+        {
+            "constant": 10.9,
+            "old": false
+        }
+    ],
+    "blythe": [
+        {
+            "constant": 3,
+            "old": false
+        },
+        {
+            "constant": 7.5,
+            "old": false
+        },
+        {
+            "constant": 9.4,
+            "old": false
+        },
+        null,
+        {
+            "constant": 10.5,
+            "old": false
+        }
+    ],
+    "liar": [
+        {
+            "constant": 4.5,
+            "old": false
+        },
+        {
+            "constant": 7.8,
+            "old": false
+        },
+        {
+            "constant": 10,
+            "old": false
+        },
+        null,
+        null
+    ],
+    "syriana": [
+        {
+            "constant": 4.5,
+            "old": false
+        },
+        {
+            "constant": 7.5,
+            "old": false
+        },
+        {
+            "constant": 9.9,
+            "old": false
+        },
+        null,
+        null
+    ],
+    "iwantyou": [
+        {
+            "constant": 3,
+            "old": false
+        },
+        {
+            "constant": 5.5,
+            "old": false
+        },
+        {
+            "constant": 8.3,
+            "old": false
+        },
+        null,
+        {
+            "constant": 9.4,
+            "old": false
+        }
+    ],
+    "someday": [
+        {
+            "constant": 3,
+            "old": false
+        },
+        {
+            "constant": 6,
+            "old": false
+        },
+        {
+            "constant": 9.5,
+            "old": false
+        },
+        null,
+        null
+    ],
+    "satisfaction": [
+        {
+            "constant": 3.5,
+            "old": false
+        },
+        {
+            "constant": 6.5,
+            "old": false
+        },
+        {
+            "constant": 8.5,
+            "old": false
+        },
+        null,
+        {
+            "constant": 9.5,
+            "old": false
+        }
     ]
 }
