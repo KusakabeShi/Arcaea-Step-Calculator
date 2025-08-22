@@ -9945,7 +9945,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "夜浪 VS 東星 \"Convergence\"",
                     "jacketDesigner": "望月けい",
-                    "rating": 11
+                    "rating": 11,
+                    "legacy11": false
                 }
             ]
         },
@@ -18199,7 +18200,8 @@
                     "ratingClass": 2,
                     "chartDesigner": "[漆黒の執行者] 夜浪",
                     "jacketDesigner": "",
-                    "rating": 11
+                    "rating": 11,
+                    "legacy11": false
                 }
             ]
         },
@@ -28167,7 +28169,8 @@
                     "ratingClass": 4,
                     "chartDesigner": "夜浪 × 絶滅「αἴθων」",
                     "jacketDesigner": "すずなし",
-                    "rating": 11
+                    "rating": 11,
+                    "legacy11": false
                 }
             ]
         },
@@ -30017,6 +30020,819 @@
                     "ratingClass": 4,
                     "chartDesigner": "絶滅",
                     "jacketDesigner": "",
+                    "rating": 10,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 472,
+            "id": "dematerialized",
+            "title_localized": {
+                "en": "Dematerialized"
+            },
+            "artist": "In Love With A Ghost",
+            "search_title": {
+                "ja": [
+                    "でまてりあらいずど"
+                ],
+                "ko": [
+                    "디메테럴라이즈드"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "いんらぶうぃずあごーすと"
+                ],
+                "ko": [
+                    "인 러브 윗 어 고스트",
+                    "인 러브 위드 어 고스트"
+                ]
+            },
+            "bpm": "86",
+            "bpm_base": 172,
+            "set": "base",
+            "purchase": "",
+            "audioPreview": 55813,
+            "audioPreviewEnd": 80930,
+            "side": 1,
+            "bg": "eden_conflict",
+            "bg_inverse": "eden_light",
+            "remote_dl": false,
+            "world_unlock": false,
+            "date": 1753315200,
+            "version": "6.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "karat",
+                    "jacketDesigner": "mw2k",
+                    "rating": 1
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "karat",
+                    "jacketDesigner": "mw2k",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "karat",
+                    "jacketDesigner": "mw2k",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "karat",
+                    "jacketDesigner": "mw2k",
+                    "rating": 8
+                }
+            ]
+        },
+        {
+            "idx": 473,
+            "id": "seethelights",
+            "title_localized": {
+                "en": "See the Lights!"
+            },
+            "artist": "polysha feat. しろさきあや",
+            "search_title": {
+                "ja": [
+                    "しーざらいつ"
+                ],
+                "ko": [
+                    "시 더 라이츠"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "shirosaki aya"
+                ],
+                "ja": [
+                    "ぽりしゃ"
+                ],
+                "ko": [
+                    "폴리샤",
+                    "시로사키 아야"
+                ]
+            },
+            "bpm": "136",
+            "bpm_base": 136,
+            "set": "anima",
+            "purchase": "anima",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "anima_light",
+            "bg_inverse": "anima_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1753315201,
+            "version": "6.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "raycast☆",
+                    "jacketDesigner": "桑島黎音",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "raycast☆",
+                    "jacketDesigner": "桑島黎音",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "raycast☆",
+                    "jacketDesigner": "桑島黎音",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "raycast☆",
+                    "jacketDesigner": "桑島黎音",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 474,
+            "id": "scarletlunar",
+            "title_localized": {
+                "en": "Scarlet Lunar Empress",
+                "ja": "朱月ノ姫"
+            },
+            "artist": "technoplanet feat. 夕月ティア",
+            "search_title": {
+                "en": [
+                    "akatsuki no hime"
+                ],
+                "ja": [
+                    "あかつきのひめ"
+                ],
+                "ko": [
+                    "스칼렛 루나 엠프레스",
+                    "아카츠키노 히메",
+                    "붉은 달의 공주"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "yuudutsu tear"
+                ],
+                "ja": [
+                    "てくのぷらねっと",
+                    "ゆうづつてぃあ"
+                ],
+                "ko": [
+                    "테크노플래닛",
+                    "유우다츠 티어"
+                ]
+            },
+            "bpm": "108-184",
+            "bpm_base": 184,
+            "set": "anima",
+            "purchase": "anima",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "anima_light",
+            "bg_inverse": "anima_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1753315202,
+            "version": "6.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "青月sidewaves",
+                    "jacketDesigner": "祝く月",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "青月sidewaves",
+                    "jacketDesigner": "祝く月",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "青月sidewaves",
+                    "jacketDesigner": "祝く月",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 475,
+            "id": "dualdependency",
+            "title_localized": {
+                "en": "Dual Dependency"
+            },
+            "artist": "seatrus",
+            "search_title": {
+                "ja": [
+                    "でゅあるでぃぺんでんしー"
+                ],
+                "ko": [
+                    "듀얼 디펜던시"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "しーとらす"
+                ],
+                "ko": [
+                    "시트러스"
+                ]
+            },
+            "bpm": "155",
+            "bpm_base": 155,
+            "set": "anima",
+            "purchase": "anima",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "anima_light",
+            "bg_inverse": "anima_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1753315203,
+            "version": "6.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "絶∥滅",
+                    "jacketDesigner": "U0",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "絶∥滅",
+                    "jacketDesigner": "U0",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "絶∥滅",
+                    "jacketDesigner": "U0",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "絶∥滅",
+                    "jacketDesigner": "U0",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 476,
+            "id": "lilly",
+            "title_localized": {
+                "en": "Lilly"
+            },
+            "artist": "Juggernaut.",
+            "search_title": {
+                "ja": [
+                    "りりぃ",
+                    "りりい"
+                ],
+                "ko": [
+                    "릴리"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "じゃがーのーと"
+                ],
+                "ko": [
+                    "저거넛",
+                    "저거노트"
+                ]
+            },
+            "bpm": "235",
+            "bpm_base": 235,
+            "set": "anima",
+            "purchase": "anima",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "anima_light",
+            "bg_inverse": "anima_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1753315204,
+            "version": "6.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "反水【天龍】",
+                    "jacketDesigner": "イシダタツキ",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "反水【天龍】",
+                    "jacketDesigner": "イシダタツキ",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "反水【天龍】",
+                    "jacketDesigner": "イシダタツキ",
+                    "rating": 9,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "瑞獣【応龍】",
+                    "jacketDesigner": "イシダタツキ",
+                    "rating": 10,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 477,
+            "id": "extradimensional",
+            "title_localized": {
+                "en": "Extradimensional Cosmic Phenomenon",
+                "ja": "多次元宇宙融合論"
+            },
+            "artist": "TAKIO feat. つぐ",
+            "search_title": {
+                "en": [
+                    "tajigen uchuu yuugouron"
+                ],
+                "ja": [
+                    "たじげんうちゅうゆうごうろん"
+                ],
+                "ko": [
+                    "타지겐 우츄우 유우고우론",
+                    "다차원 우주 융합론"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "tsugu"
+                ],
+                "ja": [
+                    "たきお",
+                    "つぐ"
+                ],
+                "ko": [
+                    "타키오",
+                    "츠구"
+                ]
+            },
+            "bpm": "180-300",
+            "bpm_base": 234,
+            "set": "anima",
+            "purchase": "anima",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "extradimensional",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1753315205,
+            "version": "6.7",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "#0000遒ｧ",
+                    "jacketDesigner": "すずなし",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "#0000遒ｧ",
+                    "jacketDesigner": "すずなし",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "#0000遒ｧ",
+                    "jacketDesigner": "すずなし",
+                    "rating": 10
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "#0000遒ｧ",
+                    "jacketDesigner": "すずなし",
+                    "legacy11": true,
+                    "rating": 11
+                }
+            ]
+        },
+        {
+            "idx": 478,
+            "id": "disintegration",
+            "title_localized": {
+                "en": "disintegration"
+            },
+            "artist": "ひゅ〜ぶ",
+            "search_title": {
+                "ja": [
+                    "でぃすいんてぐれーしょん"
+                ],
+                "ko": [
+                    "디스인터그레이션"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "fuve",
+                    "hyubu"
+                ],
+                "ja": [
+                    "ひゅーぶ"
+                ],
+                "ko": [
+                    "휴부"
+                ]
+            },
+            "bpm": "135",
+            "bpm_base": 135,
+            "set": "extend_3",
+            "purchase": "extend_3",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "eden_append_light",
+            "bg_inverse": "eden_append_conflict",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1755734400,
+            "version": "6.8",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "raycast",
+                    "jacketDesigner": "辷 + Vormis.",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 479,
+            "id": "factorder",
+            "title_localized": {
+                "en": "Factorder"
+            },
+            "artist": "瀬名 feat. 梨雛",
+            "search_title": {
+                "ja": [
+                    "ふぁくとーだー"
+                ],
+                "ko": [
+                    "팩토더",
+                    "팩트오더"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "sena",
+                    "rihina"
+                ],
+                "ja": [
+                    "せな",
+                    "りひな"
+                ],
+                "ko": [
+                    "세나",
+                    "리히나"
+                ]
+            },
+            "bpm": "168",
+            "bpm_base": 168,
+            "set": "anima_append_1",
+            "purchase": "anima_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "anima_conflict",
+            "bg_inverse": "anima_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1755734401,
+            "version": "6.8",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Luxance -Lost Colors-",
+                    "jacketDesigner": "KUREHA",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Luxance -Lost Colors-",
+                    "jacketDesigner": "KUREHA",
+                    "rating": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Nitro",
+                    "jacketDesigner": "KUREHA",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Luxance -Lost Colors-",
+                    "jacketDesigner": "KUREHA",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 480,
+            "id": "incompleteone",
+            "title_localized": {
+                "en": "incomplete the one"
+            },
+            "artist": "Halv feat.Kuroa*",
+            "search_title": {
+                "ja": [
+                    "いんこんぷりーとざわん"
+                ],
+                "ko": [
+                    "인컴플리트 더 원"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "はる",
+                    "くろあ"
+                ],
+                "ko": [
+                    "할",
+                    "쿠로아"
+                ]
+            },
+            "bpm": "208",
+            "bpm_base": 208,
+            "set": "anima_append_1",
+            "purchase": "anima_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "anima_conflict",
+            "bg_inverse": "anima_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1755734402,
+            "version": "6.8",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "\u003C\u003Entym1s",
+                    "jacketDesigner": "Tamaji",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "\u003C\u003Entym1s",
+                    "jacketDesigner": "Tamaji",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "\u003C\u003Entym1s",
+                    "jacketDesigner": "Tamaji",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "\u003C\u003Entym1s",
+                    "jacketDesigner": "Tamaji",
+                    "rating": 9,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 481,
+            "id": "chaosblast",
+            "title_localized": {
+                "en": "CHAOSBLAST"
+            },
+            "artist": "QURELESS + 柚子花",
+            "search_title": {
+                "ja": [
+                    "かおすぶらすと",
+                    "けいおすぶらすと"
+                ],
+                "ko": [
+                    "카오스블라스트",
+                    "카오스블래스트"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "yuzuha"
+                ],
+                "ja": [
+                    "きゅあれす",
+                    "ゆずは"
+                ],
+                "ko": [
+                    "큐어레스",
+                    "큐어리스",
+                    "유즈하"
+                ]
+            },
+            "bpm": "480",
+            "bpm_base": 240,
+            "set": "anima_append_1",
+            "purchase": "anima_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "anima_conflict",
+            "bg_inverse": "anima_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1755734403,
+            "version": "6.8",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "NITRO「THE ANARQISM」",
+                    "jacketDesigner": "梅まろ + Vormis.",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "NITRO「THE ANARQISM」",
+                    "jacketDesigner": "梅まろ + Vormis.",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "NITRO「THE ANARQISM」",
+                    "jacketDesigner": "梅まろ + Vormis.",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "NITRO「THE ANARQISM」",
+                    "jacketDesigner": "梅まろ + Vormis.",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 482,
+            "id": "welcomequeen",
+            "title_localized": {
+                "en": "Welcome, Queen of Fiction."
+            },
+            "artist": "打打だいず",
+            "search_title": {
+                "ja": [
+                    "うぇるかむくいーんおぶふぃくしょん"
+                ],
+                "ko": [
+                    "웰컴 퀸 오브 픽션"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "dadadaizu",
+                    "dddice"
+                ],
+                "ja": [
+                    "だだだいず"
+                ],
+                "ko": [
+                    "다다다이즈"
+                ]
+            },
+            "bpm": "110-305",
+            "bpm_base": 300,
+            "set": "anima_append_1",
+            "purchase": "anima_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "anima_conflict",
+            "bg_inverse": "anima_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1755734404,
+            "version": "6.8",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "ようこそ、瑞獣。",
+                    "jacketDesigner": "あらへなす",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "ようこそ、瑞獣。",
+                    "jacketDesigner": "あらへなす",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "ようこそ、瑞獣。",
+                    "jacketDesigner": "あらへなす",
+                    "rating": 10
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "虚偽の玉座【夜浪】",
+                    "jacketDesigner": "あらへなす",
+                    "rating": 10,
+                    "ratingPlus": true,
+                    "hidden_until": "unlockconditions"
+                }
+            ]
+        },
+        {
+            "idx": 483,
+            "id": "altergate",
+            "title_localized": {
+                "en": "AlterGate"
+            },
+            "artist": "MisoilePunch♪ ~タケノコ添え~",
+            "search_title": {
+                "ja": [
+                    "あるたーげーと"
+                ],
+                "ko": [
+                    "알터게이트",
+                    "얼터게이트"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "takenokozoe"
+                ],
+                "ja": [
+                    "みそいるぱんちたけのこぞえ"
+                ],
+                "ko": [
+                    "미소일펀치 타케노코조에"
+                ]
+            },
+            "bpm": "199",
+            "bpm_base": 199,
+            "set": "anima_append_1",
+            "purchase": "anima_append_1",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "altergate",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1755734405,
+            "version": "6.8",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "辷",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "辷",
+                    "rating": 8,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "絶滅",
+                    "jacketDesigner": "辷",
                     "rating": 10,
                     "ratingPlus": true
                 }

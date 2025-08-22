@@ -760,6 +760,20 @@
         {
           "ETR": 9.5
         }
+      ],
+      "Dematerialized": [
+        {
+          "PST": 1.5
+        },
+        {
+          "PRS": 4.5
+        },
+        {
+          "FTR": 7.5
+        },
+        {
+          "ETR": 8.3
+        }
       ]
     },
     "World Extend 3": {
@@ -977,6 +991,20 @@
         },
         {
           "FTR": 9.5
+        }
+      ],
+      "disintegration": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.3
+        },
+        {
+          "ETR": 9.8
         }
       ]
     },
@@ -3592,6 +3620,144 @@
     }
   },
   "sidestory": {
+    "Extant Anima": {
+      "See the Lights!": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.6
+        },
+        {
+          "ETR": 9.6
+        }
+      ],
+      "Scarlet Lunar Empress": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 9.8
+        }
+      ],
+      "Dual Dependency": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.5
+        },
+        {
+          "ETR": 10.4
+        }
+      ],
+      "Lilly": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.4
+        },
+        {
+          "FTR": 9.9
+        },
+        {
+          "ETR": 10.8
+        }
+      ],
+      "Extradimensional Cosmic Phenomenon": [
+        {
+          "PST": 6.5
+        },
+        {
+          "PRS": 8.8
+        },
+        {
+          "FTR": 10.6
+        },
+        {
+          "ETR": 11.3
+        }
+      ]
+    },
+    "Extant Anima Chapter Experientia": {
+      "Factorder": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.6
+        },
+        {
+          "ETR": 9.6
+        }
+      ],
+      "incomplete the one": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "ETR": 9.9
+        }
+      ],
+      "CHAOSBLAST": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.6
+        },
+        {
+          "ETR": 10.5
+        }
+      ],
+      "Welcome, Queen of Fiction.": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.5
+        },
+        {
+          "FTR": 10.1
+        },
+        {
+          "ETR": 10.9
+        }
+      ],
+      "AlterGate": [
+        {
+          "PST": 5.5
+        },
+        {
+          "PRS": 8.7
+        },
+        {
+          "FTR": 10.7
+        }
+      ]
+    },
     "Esoteric Order": {
       "Paper Witch": [
         {
