@@ -72,6 +72,22 @@
             }
         },
         {
+            "id": "eclipse",
+            "section": "mainstory2",
+            "plus_character": -1,
+            "custom_banner": true,
+            "name_localized": {
+                "en": "Liminal Eclipse"
+            },
+            "description_localized": {
+                "en": "Across these many worlds, you have been brought\nto perfection. Open your strange eyes to a world\nof beauty beneath new and gorgeous stars.\n\n5 songs trace the last words and steps of Maya\nas she explores the halls of an unknown god. Until\nshe can forget, and until eclipsed she is remembered.",
+                "ja": "数多の世界を超え、導かれしは万全の世界。\nその異色の瞳を、真新しく豪奢な美の世界へと向けて。\n\n未知なる神の回廊を探るマヤ、\nその最期の言葉と足跡を辿る、5つの楽曲。\n日に日に蝕む忘却に、残る少女の足跡。",
+                "ko": "여러 세계를 거치며 너는 완벽해졌어.\n그 두 색의 눈을 떠 낯설고 찬란한 별들 아래 펼쳐진\n아름다운 세계를 담으렴.\n\n정체불명의 신이 만들어낸 저택을 탐험하는\n마야의 마지막 발자취를 5개의 악곡이 기록합니다.\n모든 것을 잊을 때까지. 일식이 되어, 기억될 때까지.",
+                "zh-Hant": "跨越這眾多世界，妳已抵達完美。\n睜開妳奇異的雙眼，探索嶄新絢麗星辰下的美麗世界。\n\n五首歌曲追溯摩耶的足跡和她最後的話語。\n她探索著一位未知神明的殿堂，\n直到她能夠遺忘，直到她黯然失色……她將仍被銘記。",
+                "zh-Hans": "跨越这众多世界，你已抵达完美。\n睁开你奇异的双眼，探寻崭新绚丽星辰下的美丽世界。\n\n五首歌曲追溯摩耶的足迹和她最后的话语。\n她探索着一位未知神明的殿堂，\n直到她能够遗忘，直到她黯然失色……她将仍被铭记。"
+            }
+        },
+        {
             "id": "lephon",
             "section": "mainstory2",
             "plus_character": -1,

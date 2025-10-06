@@ -1006,6 +1006,17 @@
         {
           "ETR": 9.8
         }
+      ],
+      "ROST PAGE GENE": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.2
+        },
+        {
+          "FTR": 10.3
+        }
       ]
     },
     "Extend Archive 2": {
@@ -2803,10 +2814,93 @@
         {
           "FTR": 9.7
         }
+      ],
+      "Eternity Break": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 9.6
+        },
+        {
+          "ETR": 10.4
+        }
       ]
     }
   },
   "mainstory2": {
+    "Liminal Eclipse": {
+      "Viola Illyria": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.5
+        }
+      ],
+      "Vainspire": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 8.4
+        },
+        {
+          "ETR": 9.9
+        }
+      ],
+      "No Way Back": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 8.9
+        },
+        {
+          "ETR": 10.4
+        }
+      ],
+      "ANDORXOR": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.9
+        },
+        {
+          "ETR": 10.8
+        }
+      ],
+      "Undying Macula": [
+        {
+          "PST": 5.5
+        },
+        {
+          "PRS": 8.7
+        },
+        {
+          "FTR": 10.1
+        },
+        {
+          "ETR": 11
+        }
+      ]
+    },
     "Lucent Historia": {
       "Swan Song": [
         {
