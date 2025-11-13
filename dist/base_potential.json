@@ -776,7 +776,76 @@
         }
       ]
     },
-    "World Extend 3": {
+    "World Extend 4": {
+      "Wake in Hour": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 7.5
+        },
+        {
+          "ETR": 8.7
+        }
+      ],
+      "mod": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.4
+        }
+      ],
+      "Particle": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.5
+        },
+        {
+          "ETR": 9.7
+        }
+      ],
+      "Paradox Palette": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "ETR": 9.9
+        }
+      ],
+      "Xxium and Purple haze": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.9
+        },
+        {
+          "ETR": 10.5
+        }
+      ]
+    },
+    "Extend Archive 3": {
       "HELLOHELL": [
         {
           "PST": 2.5
@@ -2827,6 +2896,31 @@
         },
         {
           "ETR": 10.4
+        }
+      ],
+      "Angel's Boundary": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.5
+        },
+        {
+          "FTR": 10.2
+        }
+      ],
+      "Xterfusion": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 8.3
+        },
+        {
+          "FTR": 9.8
+        },
+        {
+          "ETR": 10.7
         }
       ]
     }
