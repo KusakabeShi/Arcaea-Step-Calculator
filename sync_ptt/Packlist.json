@@ -293,6 +293,23 @@
             }
         },
         {
+            "id": "nextstage",
+            "section": "collab",
+            "coming_soon": true,
+            "custom_banner": true,
+            "plus_character": 92,
+            "name_localized": {
+                "en": "Arcaea Next Stage"
+            },
+            "description_localized": {
+                "en": "Worlds turn in a grand crossing...\n\n12 artists are brought together to bring 6 original\nsongs in this commemorative collection!\n\nStride toward the farthest heights alongside\nHikari \u0026 Tairitsu (Debut)!",
+                "ja": "nextstage",
+                "ko": "nextstage",
+                "zh-Hant": "nextstage",
+                "zh-Hans": "nextstage"
+            }
+        },
+        {
             "id": "anima",
             "section": "sidestory",
             "custom_banner": true,

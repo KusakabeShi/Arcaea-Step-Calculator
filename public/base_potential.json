@@ -843,6 +843,20 @@
         {
           "ETR": 10.5
         }
+      ],
+      "taboo tears you up 2017": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.4
+        },
+        {
+          "ETR": 9.8
+        }
       ]
     },
     "Extend Archive 3": {
@@ -2922,6 +2936,17 @@
         {
           "ETR": 10.7
         }
+      ],
+      "Grandspell": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 8.4
+        },
+        {
+          "FTR": 10.2
+        }
       ]
     }
   },
@@ -3818,9 +3843,23 @@
       ]
     }
   },
-  "sidestory": {
-    "Extant Anima": {
-      "See the Lights!": [
+  "collab": {
+    "Arcaea Next Stage": {
+      "INFINITE DIMENSION": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 8.6
+        },
+        {
+          "ETR": 10.1
+        }
+      ],
+      "INCARNATOR₀₀": [
         {
           "PST": 3.5
         },
@@ -3828,82 +3867,13 @@
           "PRS": 6.5
         },
         {
-          "FTR": 8.6
-        },
-        {
-          "ETR": 9.6
-        }
-      ],
-      "Scarlet Lunar Empress": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 7
-        },
-        {
-          "FTR": 9.8
-        }
-      ],
-      "Dual Dependency": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 9.5
+          "FTR": 8.9
         },
         {
           "ETR": 10.4
         }
       ],
-      "Lilly": [
-        {
-          "PST": 5
-        },
-        {
-          "PRS": 8.4
-        },
-        {
-          "FTR": 9.9
-        },
-        {
-          "ETR": 10.8
-        }
-      ],
-      "Extradimensional Cosmic Phenomenon": [
-        {
-          "PST": 6.5
-        },
-        {
-          "PRS": 8.8
-        },
-        {
-          "FTR": 10.6
-        },
-        {
-          "ETR": 11.3
-        }
-      ]
-    },
-    "Extant Anima Chapter Experientia": {
-      "Factorder": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 8.6
-        },
-        {
-          "ETR": 9.6
-        }
-      ],
-      "incomplete the one": [
+      "zephyrlasting": [
         {
           "PST": 3.5
         },
@@ -3911,712 +3881,55 @@
           "PRS": 7.5
         },
         {
-          "FTR": 8.8
+          "FTR": 9.5
         },
         {
-          "ETR": 9.9
+          "ETR": 10.3
         }
       ],
-      "CHAOSBLAST": [
+      "MARENYX": [
         {
           "PST": 4.5
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 9.6
-        },
-        {
-          "ETR": 10.5
-        }
-      ],
-      "Welcome, Queen of Fiction.": [
-        {
-          "PST": 5
-        },
-        {
-          "PRS": 8.5
-        },
-        {
-          "FTR": 10.1
-        },
-        {
-          "ETR": 10.9
-        }
-      ],
-      "AlterGate": [
-        {
-          "PST": 5.5
-        },
-        {
-          "PRS": 8.7
-        },
-        {
-          "FTR": 10.7
-        }
-      ]
-    },
-    "Esoteric Order": {
-      "Paper Witch": [
-        {
-          "PST": 2
-        },
-        {
-          "PRS": 5
-        },
-        {
-          "FTR": 8.7
-        }
-      ],
-      "Crystal Gravity": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 9.4
-        }
-      ],
-      "Far Away Light": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 9.8
-        }
-      ],
-      "Löschen": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 7
-        },
-        {
-          "FTR": 10.2
-        }
-      ],
-      "Aegleseeker": [
-        {
-          "PST": 5.5
-        },
-        {
-          "PRS": 9.1
-        },
-        {
-          "FTR": 11.2
-        }
-      ],
-      "Seclusion": [
-        {
-          "PST": 4
-        },
-        {
-          "PRS": 7.5
-        },
-        {
-          "FTR": 10.6
-        }
-      ]
-    },
-    "Esoteric Order Pale Tapestry": {
-      "Coastal Highway": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9.1
-        }
-      ],
-      "ΟΔΥΣΣΕΙΑ": [
-        {
-          "PST": 4
         },
         {
           "PRS": 7.8
         },
         {
           "FTR": 9.5
+        },
+        {
+          "ETR": 10.8
         }
       ],
-      "Overwhelm": [
-        {
-          "PST": 5
-        },
-        {
-          "PRS": 8.5
-        },
-        {
-          "FTR": 10.6
-        }
-      ]
-    },
-    "Esoteric Order Light of Salvation": {
-      "Small Cloud Sugar Candy": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 9.3
-        }
-      ],
-      "AlterAle": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9.7
-        }
-      ],
-      "Divine Light of Myriad": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 10.8
-        }
-      ]
-    },
-    "Divided Heart": {
-      "First Snow": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 4.5
-        },
-        {
-          "FTR": 7.8
-        }
-      ],
-      "Blue Rose": [
-        {
-          "PST": 2
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9.1
-        }
-      ],
-      "Blocked Library": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 9.3
-        }
-      ],
-      "nέο κόsmo": [
-        {
-          "PST": 4
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 9.7
-        }
-      ],
-      "Lightning Screw": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 10.5
-        }
-      ]
-    },
-    "Ephemeral Page": {
-      "Alice à la mode": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 9.2
-        }
-      ],
-      "Eccentric Tale": [
-        {
-          "PST": 2
-        },
-        {
-          "PRS": 5.5
-        },
-        {
-          "FTR": 8.4
-        }
-      ],
-      "Alice's Suitcase": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9.1
-        }
-      ],
-      "Jump": [
-        {
-          "PST": 4
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9
-        }
-      ],
-      "Felis": [
-        {
-          "PST": 4
-        },
-        {
-          "PRS": 7.5
-        },
-        {
-          "FTR": 10.4
-        }
-      ]
-    },
-    "Ephemeral Page The Journey Onwards": {
-      "Beside You": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 8.7
-        }
-      ],
-      "Heart Jackin'": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 5.5
-        },
-        {
-          "FTR": 9.7
-        }
-      ],
-      "To: Alice Liddell": [
-        {
-          "PST": 4
-        },
-        {
-          "PRS": 7.5
-        },
-        {
-          "FTR": 10.3
-        }
-      ]
-    },
-    "Sunset Radiance": {
-      "Chelsea": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 8.9
-        }
-      ],
-      "AI[UE]OON": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 9.4
-        }
-      ],
-      "A Wandering Melody of Love": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 7.5
-        },
-        {
-          "FTR": 9.6
-        }
-      ],
-      "Tie me down gently": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 5.5
-        },
-        {
-          "FTR": 8.3
-        }
-      ],
-      "Valhalla:0": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7.5
-        },
-        {
-          "FTR": 10.2
-        }
-      ],
-      "Hotarubi no Yuki": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 7
-        },
-        {
-          "FTR": 9.7
-        }
-      ]
-    },
-    "Absolute Reason": {
-      "Antithese": [
-        {
-          "PST": 2
-        },
-        {
-          "PRS": 5
-        },
-        {
-          "FTR": 8.8
-        },
-        {
-          "BYD": 9.6
-        }
-      ],
-      "Corruption": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 9.8
-        }
-      ],
-      "Black Territory": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 7.5
-        },
-        {
-          "FTR": 9.8
-        }
-      ],
-      "Vicious Heroism": [
-        {
-          "PST": 4
-        },
-        {
-          "PRS": 7.5
-        },
-        {
-          "FTR": 10
-        },
-        {
-          "BYD": 11.2
-        }
-      ],
-      "Cyaegha": [
+      "Code: Oblivion": [
         {
           "PST": 5.5
         },
         {
-          "PRS": 8.4
+          "PRS": 8.3
         },
         {
-          "FTR": 10.7
-        }
-      ]
-    },
-    "Binary Enfold": {
-      "Silent Rush": [
-        {
-          "PST": 2.5
+          "FTR": 9.9
         },
         {
-          "PRS": 5
-        },
-        {
-          "FTR": 8.6
+          "ETR": 10.9
         }
       ],
-      "Singularity": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 10.5
-        },
-        {
-          "BYD": 10.4
-        }
-      ],
-      "Memory Forest": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9.8
-        }
-      ],
-      "Strongholds": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 5
-        },
-        {
-          "FTR": 9.2
-        }
-      ],
-      "next to you": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7
-        },
-        {
-          "FTR": 8.8
-        },
-        {
-          "BYD": 9.6
-        }
-      ]
-    },
-    "Binary Enfold Shared Time": {
-      "Cosmica": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 5
-        },
-        {
-          "FTR": 8.8
-        }
-      ],
-      "Ascent": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9.8
-        }
-      ],
-      "Live Fast Die Young": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 8.5
-        },
-        {
-          "FTR": 10.6
-        }
-      ]
-    },
-    "Ambivalent Vision": {
-      "Lethaeus": [
-        {
-          "PST": 3.5
-        },
-        {
-          "PRS": 6.5
-        },
-        {
-          "FTR": 9.7
-        }
-      ],
-      "Romance Wars": [
-        {
-          "PST": 1
-        },
-        {
-          "PRS": 4
-        },
-        {
-          "FTR": 7.8
-        }
-      ],
-      "Blossoms": [
-        {
-          "PST": 1
-        },
-        {
-          "PRS": 4
-        },
-        {
-          "FTR": 7
-        }
-      ],
-      "Moonheart": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 5.5
-        },
-        {
-          "FTR": 8.4
-        },
-        {
-          "BYD": 9.7
-        }
-      ],
-      "Genesis": [
-        {
-          "PST": 2
-        },
-        {
-          "PRS": 5.5
-        },
-        {
-          "FTR": 8.2
-        }
-      ],
-      "corps-sans-organes": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7.8
-        },
-        {
-          "FTR": 10.6
-        }
-      ]
-    },
-    "Crimson Solace": {
-      "Party Vinyl": [
+      "ΛZΛLEΛ": [
         {
           "PST": 4
         },
         {
-          "PRS": 7.8
+          "PRS": 7
         },
         {
           "FTR": 9.4
         },
         {
-          "BYD": 10.3
-        }
-      ],
-      "Flashback": [
-        {
-          "PST": 2
-        },
-        {
-          "PRS": 5
-        },
-        {
-          "FTR": 8.9
-        }
-      ],
-      "Flyburg and Endroll": [
-        {
-          "PST": 3
-        },
-        {
-          "PRS": 6
-        },
-        {
-          "FTR": 9
-        }
-      ],
-      "Nirv lucE": [
-        {
-          "PST": 2.5
-        },
-        {
-          "PRS": 7
-        },
-        {
-          "FTR": 10.2
-        }
-      ],
-      "Paradise": [
-        {
-          "PST": 1
-        },
-        {
-          "PRS": 4
-        },
-        {
-          "FTR": 7.8
-        }
-      ],
-      "GLORY：ROAD": [
-        {
-          "PST": 4.5
-        },
-        {
-          "PRS": 7
-        },
-        {
-          "FTR": 10.5
+          "ETR": 10
         }
       ]
-    }
-  },
-  "collab": {
+    },
     "DJMAX": {
       "U.A.D": [
         {
@@ -5980,6 +5293,804 @@
         },
         {
           "FTR": 10.2
+        }
+      ]
+    }
+  },
+  "sidestory": {
+    "Extant Anima": {
+      "See the Lights!": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.6
+        },
+        {
+          "ETR": 9.6
+        }
+      ],
+      "Scarlet Lunar Empress": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 9.8
+        }
+      ],
+      "Dual Dependency": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.5
+        },
+        {
+          "ETR": 10.4
+        }
+      ],
+      "Lilly": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.4
+        },
+        {
+          "FTR": 9.9
+        },
+        {
+          "ETR": 10.8
+        }
+      ],
+      "Extradimensional Cosmic Phenomenon": [
+        {
+          "PST": 6.5
+        },
+        {
+          "PRS": 8.8
+        },
+        {
+          "FTR": 10.6
+        },
+        {
+          "ETR": 11.3
+        }
+      ]
+    },
+    "Extant Anima Chapter Experientia": {
+      "Factorder": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.6
+        },
+        {
+          "ETR": 9.6
+        }
+      ],
+      "incomplete the one": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "ETR": 9.9
+        }
+      ],
+      "CHAOSBLAST": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.6
+        },
+        {
+          "ETR": 10.5
+        }
+      ],
+      "Welcome, Queen of Fiction.": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.5
+        },
+        {
+          "FTR": 10.1
+        },
+        {
+          "ETR": 10.9
+        }
+      ],
+      "AlterGate": [
+        {
+          "PST": 5.5
+        },
+        {
+          "PRS": 8.7
+        },
+        {
+          "FTR": 10.7
+        }
+      ]
+    },
+    "Esoteric Order": {
+      "Paper Witch": [
+        {
+          "PST": 2
+        },
+        {
+          "PRS": 5
+        },
+        {
+          "FTR": 8.7
+        }
+      ],
+      "Crystal Gravity": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.4
+        }
+      ],
+      "Far Away Light": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.8
+        }
+      ],
+      "Löschen": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 10.2
+        }
+      ],
+      "Aegleseeker": [
+        {
+          "PST": 5.5
+        },
+        {
+          "PRS": 9.1
+        },
+        {
+          "FTR": 11.2
+        }
+      ],
+      "Seclusion": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 10.6
+        }
+      ]
+    },
+    "Esoteric Order Pale Tapestry": {
+      "Coastal Highway": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.1
+        }
+      ],
+      "ΟΔΥΣΣΕΙΑ": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.5
+        }
+      ],
+      "Overwhelm": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.5
+        },
+        {
+          "FTR": 10.6
+        }
+      ]
+    },
+    "Esoteric Order Light of Salvation": {
+      "Small Cloud Sugar Candy": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.3
+        }
+      ],
+      "AlterAle": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.7
+        }
+      ],
+      "Divine Light of Myriad": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 10.8
+        }
+      ]
+    },
+    "Divided Heart": {
+      "First Snow": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 4.5
+        },
+        {
+          "FTR": 7.8
+        }
+      ],
+      "Blue Rose": [
+        {
+          "PST": 2
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.1
+        }
+      ],
+      "Blocked Library": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.3
+        }
+      ],
+      "nέο κόsmo": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.7
+        }
+      ],
+      "Lightning Screw": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 10.5
+        }
+      ]
+    },
+    "Ephemeral Page": {
+      "Alice à la mode": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.2
+        }
+      ],
+      "Eccentric Tale": [
+        {
+          "PST": 2
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 8.4
+        }
+      ],
+      "Alice's Suitcase": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.1
+        }
+      ],
+      "Jump": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9
+        }
+      ],
+      "Felis": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 10.4
+        }
+      ]
+    },
+    "Ephemeral Page The Journey Onwards": {
+      "Beside You": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 8.7
+        }
+      ],
+      "Heart Jackin'": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 9.7
+        }
+      ],
+      "To: Alice Liddell": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 10.3
+        }
+      ]
+    },
+    "Sunset Radiance": {
+      "Chelsea": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 8.9
+        }
+      ],
+      "AI[UE]OON": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.4
+        }
+      ],
+      "A Wandering Melody of Love": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 9.6
+        }
+      ],
+      "Tie me down gently": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 8.3
+        }
+      ],
+      "Valhalla:0": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 10.2
+        }
+      ],
+      "Hotarubi no Yuki": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 9.7
+        }
+      ]
+    },
+    "Absolute Reason": {
+      "Antithese": [
+        {
+          "PST": 2
+        },
+        {
+          "PRS": 5
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "BYD": 9.6
+        }
+      ],
+      "Corruption": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.8
+        }
+      ],
+      "Black Territory": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 9.8
+        }
+      ],
+      "Vicious Heroism": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 10
+        },
+        {
+          "BYD": 11.2
+        }
+      ],
+      "Cyaegha": [
+        {
+          "PST": 5.5
+        },
+        {
+          "PRS": 8.4
+        },
+        {
+          "FTR": 10.7
+        }
+      ]
+    },
+    "Binary Enfold": {
+      "Silent Rush": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 5
+        },
+        {
+          "FTR": 8.6
+        }
+      ],
+      "Singularity": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 10.5
+        },
+        {
+          "BYD": 10.4
+        }
+      ],
+      "Memory Forest": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.8
+        }
+      ],
+      "Strongholds": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 5
+        },
+        {
+          "FTR": 9.2
+        }
+      ],
+      "next to you": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "BYD": 9.6
+        }
+      ]
+    },
+    "Binary Enfold Shared Time": {
+      "Cosmica": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 5
+        },
+        {
+          "FTR": 8.8
+        }
+      ],
+      "Ascent": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.8
+        }
+      ],
+      "Live Fast Die Young": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 8.5
+        },
+        {
+          "FTR": 10.6
+        }
+      ]
+    },
+    "Ambivalent Vision": {
+      "Lethaeus": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 9.7
+        }
+      ],
+      "Romance Wars": [
+        {
+          "PST": 1
+        },
+        {
+          "PRS": 4
+        },
+        {
+          "FTR": 7.8
+        }
+      ],
+      "Blossoms": [
+        {
+          "PST": 1
+        },
+        {
+          "PRS": 4
+        },
+        {
+          "FTR": 7
+        }
+      ],
+      "Moonheart": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 8.4
+        },
+        {
+          "BYD": 9.7
+        }
+      ],
+      "Genesis": [
+        {
+          "PST": 2
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 8.2
+        }
+      ],
+      "corps-sans-organes": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 10.6
+        }
+      ]
+    },
+    "Crimson Solace": {
+      "Party Vinyl": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.4
+        },
+        {
+          "BYD": 10.3
+        }
+      ],
+      "Flashback": [
+        {
+          "PST": 2
+        },
+        {
+          "PRS": 5
+        },
+        {
+          "FTR": 8.9
+        }
+      ],
+      "Flyburg and Endroll": [
+        {
+          "PST": 3
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9
+        }
+      ],
+      "Nirv lucE": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 10.2
+        }
+      ],
+      "Paradise": [
+        {
+          "PST": 1
+        },
+        {
+          "PRS": 4
+        },
+        {
+          "FTR": 7.8
+        }
+      ],
+      "GLORY：ROAD": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 10.5
         }
       ]
     }
