@@ -857,6 +857,28 @@
         {
           "ETR": 9.8
         }
+      ],
+      "undefined": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6
+        },
+        {
+          "FTR": 9.4
+        }
+      ],
+      "~_+": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 8
+        },
+        {
+          "FTR": 9.9
+        }
       ]
     },
     "Extend Archive 3": {
@@ -2946,6 +2968,48 @@
         },
         {
           "FTR": 10.2
+        }
+      ],
+      "Paranoid Arc": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.6
+        },
+        {
+          "ETR": 10.5
+        }
+      ],
+      "Subsphere in Eclosion": [
+        {
+          "PST": 5
+        },
+        {
+          "PRS": 8.1
+        },
+        {
+          "FTR": 9.6
+        },
+        {
+          "ETR": 10.6
+        }
+      ],
+      "The 'Raft' taught me: your heart will always find a way.": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 9.5
+        },
+        {
+          "ETR": 10.4
         }
       ]
     }
