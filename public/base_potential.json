@@ -879,6 +879,17 @@
         {
           "FTR": 9.9
         }
+      ],
+      "OMAJINAI": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 9.4
+        }
       ]
     },
     "Extend Archive 3": {
@@ -3908,6 +3919,75 @@
     }
   },
   "collab": {
+    "MEGAREX": {
+      "CHAIN2NITE": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.6
+        },
+        {
+          "ETR": 9.9
+        }
+      ],
+      "One Step Closer": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 9.5
+        }
+      ],
+      "My life is mine alone!": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "ETR": 10.1
+        }
+      ],
+      "Melty Rhapsody": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 9.6
+        },
+        {
+          "ETR": 10.4
+        }
+      ],
+      "Signal": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7.8
+        },
+        {
+          "FTR": 9.8
+        },
+        {
+          "ETR": 10.7
+        }
+      ]
+    },
     "Arcaea Next Stage": {
       "INFINITE DIMENSION": [
         {
