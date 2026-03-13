@@ -859,7 +859,12 @@
 		{
 			"constant": 10.6,
 			"old": false
-		}
+		},
+		{
+			"constant": 11.3,
+			"old": false
+		},
+		null
 	],
 	"grievouslady": [
 		{
@@ -1193,7 +1198,12 @@
 		{
 			"constant": 9.4,
 			"old": false
-		}
+		},
+		{
+			"constant": 10.5,
+			"old": false
+		},
+		null
 	],
 	"cyberneciacatharsis": [
 		{
@@ -2118,7 +2128,12 @@
 		{
 			"constant": 9.8,
 			"old": false
-		}
+		},
+		{
+			"constant": 10.9,
+			"old": false
+		},
+		null
 	],
 	"senkyou": [
 		{
@@ -2748,7 +2763,12 @@
 		{
 			"constant": 8.4,
 			"old": false
-		}
+		},
+		{
+			"constant": 9.9,
+			"old": false
+		},
+		null
 	],
 	"alicessuitcase": [
 		{
@@ -3266,7 +3286,12 @@
 		{
 			"constant": 9.3,
 			"old": false
-		}
+		},
+		{
+			"constant": 9.9,
+			"old": false
+		},
+		null
 	],
 	"hivemind": [
 		{
@@ -3308,7 +3333,12 @@
 		{
 			"constant": 9.3,
 			"old": false
-		}
+		},
+		{
+			"constant": 10.3,
+			"old": false
+		},
+		null
 	],
 	"alterale": [
 		{
@@ -6093,7 +6123,12 @@
 		{
 			"constant": 8.8,
 			"old": false
-		}
+		},
+		{
+			"constant": 10.4,
+			"old": false
+		},
+		null
 	],
 	"hailstone": [
 		{
@@ -7920,5 +7955,142 @@
 			"constant": 10.7,
 			"old": false
 		}
+	],
+	"caramelpop": [
+		{
+			"constant": 2.5,
+			"old": false
+		},
+		{
+			"constant": 5.5,
+			"old": false
+		},
+		{
+			"constant": 8.1,
+			"old": false
+		},
+		null,
+		{
+			"constant": 9.1,
+			"old": false
+		}
+	],
+	"shinoukyoseki": [
+		{
+			"constant": 3.5,
+			"old": false
+		},
+		{
+			"constant": 6.5,
+			"old": false
+		},
+		{
+			"constant": 9.7,
+			"old": false
+		},
+		null,
+		null
+	],
+	"unknownnum": [
+		{
+			"constant": 4,
+			"old": false
+		},
+		{
+			"constant": 7,
+			"old": false
+		},
+		{
+			"constant": 9.7,
+			"old": false
+		},
+		null,
+		null
+	],
+	"thirdavenue": [
+		{
+			"constant": 3,
+			"old": false
+		},
+		{
+			"constant": 8.1,
+			"old": false
+		},
+		{
+			"constant": 9.2,
+			"old": false
+		},
+		null,
+		null
+	],
+	"vallista": [
+		{
+			"constant": 4.5,
+			"old": false
+		},
+		{
+			"constant": 7.8,
+			"old": false
+		},
+		{
+			"constant": 9.7,
+			"old": false
+		},
+		null,
+		null
+	],
+	"goodrage": [
+		{
+			"constant": 4.5,
+			"old": false
+		},
+		{
+			"constant": 7.8,
+			"old": false
+		},
+		{
+			"constant": 9.3,
+			"old": false
+		},
+		null,
+		{
+			"constant": 10.2,
+			"old": false
+		}
+	],
+	"cryogenic": [
+		{
+			"constant": 5,
+			"old": false
+		},
+		{
+			"constant": 7.5,
+			"old": false
+		},
+		{
+			"constant": 9.2,
+			"old": false
+		},
+		null,
+		{
+			"constant": 10.1,
+			"old": false
+		}
+	],
+	"desertrealm": [
+		{
+			"constant": 4.5,
+			"old": false
+		},
+		{
+			"constant": 8.5,
+			"old": false
+		},
+		{
+			"constant": 10.6,
+			"old": false
+		},
+		null,
+		null
 	]
 }
