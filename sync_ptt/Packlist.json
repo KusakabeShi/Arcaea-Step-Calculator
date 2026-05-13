@@ -295,7 +295,6 @@
 		{
 			"id": "megarex",
 			"section": "collab",
-			"coming_soon": false,
 			"custom_banner": true,
 			"plus_character": 96,
 			"name_localized": {
@@ -312,7 +311,6 @@
 		{
 			"id": "nextstage",
 			"section": "collab",
-			"coming_soon": true,
 			"custom_banner": true,
 			"plus_character": 92,
 			"name_localized": {
@@ -591,6 +589,23 @@
 				"ko": "오래 전, 한 인간이 폐허로 떨어졌다.\n\nUNDERTALE에서 건너온 5개의 악곡이,\n기억을 파도처럼 몰고 옵니다.\n\n맞서 싸우거나, 자비를 보이세요.\n넘치는 결의를, 잊지 마세요.",
 				"zh-Hant": "很久很久以前，一個人類掉入了地下的遺跡⋯\n\n五首經典的UNDERTALE曲目將帶你踏上回憶之旅。\n\n戰鬥，或是仁慈，均由你來決定，但請記住：\n永遠不要喪失決心！",
 				"zh-Hans": "很久很久以前，一个人类掉入了地下的遗迹⋯\n\n五首经典的UNDERTALE曲目将带你踏上回忆之旅。\n\n战斗，或是仁慈，均由你来决定，但请记住：\n永远不要丧失决心！"
+			}
+		},
+		{
+			"id": "undertale_append_1",
+			"section": "collab",
+			"pack_parent": "undertale",
+			"plus_character": -1,
+			"limitedSaleEndTime": 1809043200,
+			"name_localized": {
+				"en": "UNDERTALE Pack Append"
+			},
+			"description_localized": {
+				"en": "Hope: for a future of Humans and Monsters.\n\nRetrace your steps in the Underground with\n3 new songs from UNDERTALE.\n\nFeel the pounding of each and every one\nof those hearts!",
+				"ja": "きぼうをいだいて。　ニンゲンと\nモンスターの　みらいのために。\n\nUNDERTALEより、地底の世界の\n冒険を彩った3曲が登場。\n\n胸は高鳴り、今皆のこころがひとつになる。",
+				"ko": "희망...\n인간과 괴물이 평화롭게 지내는\n새롭고 밝은 미래의 시작입니다.\n\nUNDERTALE에서 건너온 3개의 악곡으로,\n지하 세계에서 겪었던 여정을 되돌아보세요.\n\n모든 이들의 심장이 박동하는 소리가 들려옵니다!",
+				"zh-Hant": "我希望：\n那個人類與怪物共存的未來。\n\n重溫地下世界的足跡，聆聽來自\nUNDERTALE的三首全新歌曲。\n\n感受每一顆跳動的心！",
+				"zh-Hans": "我希望：\n那个人类与怪物共存的未来。\n\n重温地下世界的足迹，聆听来自\nUNDERTALE的三首全新歌曲。\n\n感受每一颗跳动的心！"
 			}
 		},
 		{

@@ -937,6 +937,31 @@
         {
           "FTR": 9.7
         }
+      ],
+      "MIRROR - kamome sano remix": [
+        {
+          "PST": 4
+        },
+        {
+          "PRS": 7
+        },
+        {
+          "FTR": 9.9
+        }
+      ],
+      "Riot in the System": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 9.5
+        },
+        {
+          "ETR": 10.1
+        }
       ]
     },
     "Extend Archive 3": {
@@ -4390,6 +4415,50 @@
         },
         {
           "ETR": 10.5
+        }
+      ]
+    },
+    "UNDERTALE UNDERTALE Pack Append": {
+      "Spider Dance": [
+        {
+          "PST": 2.5
+        },
+        {
+          "PRS": 5.5
+        },
+        {
+          "FTR": 7.8
+        },
+        {
+          "ETR": 9.5
+        }
+      ],
+      "Spear of Justice": [
+        {
+          "PST": 3.5
+        },
+        {
+          "PRS": 6.5
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "ETR": 9.9
+        }
+      ],
+      "ASGORE": [
+        {
+          "PST": 4.5
+        },
+        {
+          "PRS": 7.5
+        },
+        {
+          "FTR": 8.8
+        },
+        {
+          "ETR": 10.2
         }
       ]
     },
